@@ -2,6 +2,7 @@
 permalink: /brest
 ---
 
+<!DOCTYPE HTML>
 <html>
 	<head>
 		<title>世以子</title>
