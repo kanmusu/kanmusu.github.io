@@ -1,0 +1,160 @@
+---
+permalink: /monarch
+---
+
+<html>
+	<head>
+		<title>世以子</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+    <body>
+			<header id="header">
+				<h1><a href="/">世以子</a></h1>
+				<nav>
+					<ul>
+						<li><b><a href="lewds">Gallery</a></b></li>
+					</ul>
+				</nav>
+			</header>
+			<section id="#monarch" class="main style3 primary">
+				<div class="content">
+					<header>
+						<h2>Monarch</h2>
+						<p></p>
+					</header>
+					<!-- Gallery  -->
+						<div class="gallery">
+							<article class="from-left">
+								<a href="images/lewds/monarch/f7cfdcef70d0593a7bd63700cfdb0061.png" class="image fit"><img src="images/lewdsthumbs/monarch/f7cfdcef70d0593a7bd63700cfdb0061.png" title="" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/lewds/monarch/0e66eb77b52d6c9c8672357e38af3ff6.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/0e66eb77b52d6c9c8672357e38af3ff6.png" title="" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/lewds/monarch/2e688b6944ddf78fb5b35474f1f7aba8.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/2e688b6944ddf78fb5b35474f1f7aba8.png" title="" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/lewds/monarch/5c79006c5a3caa208f4a306682d53a59.png" class="image fit"><img src="images/lewdsthumbs/monarch/5c79006c5a3caa208f4a306682d53a59.png" title="" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/lewds/monarch/6ffdcb95927a98a2a86ff69e8eab64e6.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/6ffdcb95927a98a2a86ff69e8eab64e6.png" title="" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/lewds/monarch/8c13671a19401e292d0b8c87f9990b6e.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/8c13671a19401e292d0b8c87f9990b6e.png" title="" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/lewds/monarch/41f8bd3e71b306b8d0f7e2980bf85022.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/41f8bd3e71b306b8d0f7e2980bf85022.png" title="" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/lewds/monarch/082c15f62ed88cdfa0ee966089724a28.png" class="image fit"><img src="images/lewdsthumbs/monarch/082c15f62ed88cdfa0ee966089724a28.png" title="" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/lewds/monarch/84bbd22c505bc68f0f68b3c49bdb519e.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/84bbd22c505bc68f0f68b3c49bdb519e.png" title="" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/lewds/monarch/287aa8ccbaaad8bfef596d3f54e2a13e.png" class="image fit"><img src="images/lewdsthumbs/monarch/287aa8ccbaaad8bfef596d3f54e2a13e.png" title="" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/lewds/monarch/3048bd759486f4a28af62d7e9b357747.png" class="image fit"><img src="images/lewdsthumbs/monarch/3048bd759486f4a28af62d7e9b357747.png" title="" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/lewds/monarch/3859a378bc2c23cd33ece3707dbe51a4.png" class="image fit"><img src="images/lewdsthumbs/monarch/3859a378bc2c23cd33ece3707dbe51a4.png" title="" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/lewds/monarch/9756febb5b833b1b08ebef3d18138b1e.png" class="image fit"><img src="images/lewdsthumbs/monarch/9756febb5b833b1b08ebef3d18138b1e.png" title="" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/lewds/monarch/35461d01cd4708539dd6fcf2e9403af1.png" class="image fit"><img src="images/lewdsthumbs/monarch/35461d01cd4708539dd6fcf2e9403af1.png" title="" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/lewds/monarch/359100e04e09802060fdc5a1ac8d2864.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/359100e04e09802060fdc5a1ac8d2864.png" title="" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/lewds/monarch/707811d473f90312c46ad846206e68da.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/707811d473f90312c46ad846206e68da.png" title="" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/lewds/monarch/6174948ffc3fb1edba9a66731b2b05e9.png" class="image fit"><img src="images/lewdsthumbs/monarch/6174948ffc3fb1edba9a66731b2b05e9.png" title="" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/lewds/monarch/935947944e09e2d0e6f6946bde938659.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/935947944e09e2d0e6f6946bde938659.png" title="" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/lewds/monarch/304739504109feb65e514445c8309be5.png" class="image fit"><img src="images/lewdsthumbs/monarch/304739504109feb65e514445c8309be5.png" title="" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/lewds/monarch/a76b5f634ef74556a8746e30dfb1ac4f.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/a76b5f634ef74556a8746e30dfb1ac4f.png" title="" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/lewds/monarch/a94e236ce2e19a8b65a251ec7fcc3a0a.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/a94e236ce2e19a8b65a251ec7fcc3a0a.png" title="" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/lewds/monarch/ae5c2c426de4c58b794996aaa4d2ae94.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/ae5c2c426de4c58b794996aaa4d2ae94.png" title="" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/lewds/monarch/b5b43d8e5e363113ff497a2a6be997fc.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/b5b43d8e5e363113ff497a2a6be997fc.png" title="" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/lewds/monarch/b6eff9013e8f5bfb181d3ffc1f0b894e.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/b6eff9013e8f5bfb181d3ffc1f0b894e.png" title="" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/lewds/monarch/b57f6941cd74fef093034f9a51bd4f72.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/b57f6941cd74fef093034f9a51bd4f72.png" title="" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/lewds/monarch/c2fbf38f72c011c512322b48f5ddb490.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/c2fbf38f72c011c512322b48f5ddb490.png" title="" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/lewds/monarch/cdcd3a14c422265917290a9ba6c5866a.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/cdcd3a14c422265917290a9ba6c5866a.png" title="" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/lewds/monarch/cefb4b008386a292b2953eff85d94a30.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/cefb4b008386a292b2953eff85d94a30.png" title="" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/lewds/monarch/d61c0100ab6723cd35f6a548c21f9cb7.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/d61c0100ab6723cd35f6a548c21f9cb7.png" title="" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/lewds/monarch/d252029d5f8a5dfc2c3be67b8653f228.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/d252029d5f8a5dfc2c3be67b8653f228.png" title="" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/lewds/monarch/e5b082dd28d29754e5e08f8211413495.png" class="image fit"><img src="images/lewdsthumbs/monarch/e5b082dd28d29754e5e08f8211413495.png" title="" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/lewds/monarch/e6fae7bb35187d4298e4cb78a3cf6eae.jpg" class="image fit"><img src="images/lewdsthumbs/monarch/e6fae7bb35187d4298e4cb78a3cf6eae.png" title="" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/lewds/monarch/e81e6c6c9d61cf65742703a2df9a7194.png" class="image fit"><img src="images/lewdsthumbs/monarch/e81e6c6c9d61cf65742703a2df9a7194.png" title="" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/lewds/monarch/e7644bcb835b7af8eb6a03a91da055f5.png" class="image fit"><img src="images/lewdsthumbs/monarch/e7644bcb835b7af8eb6a03a91da055f5.png" title="" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/lewds/monarch/0c10774f089b172ec3b9f9e756b0b9b9.png" class="image fit"><img src="images/lewdsthumbs/monarch/0c10774f089b172ec3b9f9e756b0b9b9.png" title="" alt="" /></a>
+							</article>
+						</div>
+				</div>
+			</section>
+		<footer id="footer">
+					<ul class="icons">
+						<li><a href="https://discord.gg" class="icon brands fa-discord"><span class="label">Twitter</span></a></li>
+						<li>kanmusu</li>
+						<li> | </li>
+						<li><a href="https://twitter.com/kanmusuwu" class="icon brands fa-twitter"><span class="label">Pinterest</span></a></li>
+						<li>@kanmusuwu</li>
+					</ul>
+					<ul class="menu">
+						<li>&copy; 世以子</li><li>2023</li>
+					</ul>
+			</footer>
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+		</body>
+</html>
