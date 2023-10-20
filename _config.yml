@@ -1,0 +1,5 @@
+name: 世以子
+title: 世以子
+markdown: kramdown
+kramdown:
+  input: GFM
