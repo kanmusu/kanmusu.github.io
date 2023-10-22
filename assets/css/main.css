@@ -631,7 +631,7 @@ input, select, textarea {
 			box-shadow: 10px 5px 5px;
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (orientation: portrait) {
 
 			.box {
 				padding: 1em;
@@ -1810,7 +1810,7 @@ input, select, textarea {
 				transform: translateY(7em);
 			}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (orientation: ppportrait) {
 
 			.gallery {
 				-moz-flex-wrap: nowrap;
@@ -1824,7 +1824,7 @@ input, select, textarea {
 			}
 
 				.gallery article {
-					width: 100%;
+					width: 50%;
 				}
 
 		}
@@ -2111,7 +2111,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (orientation: portrait) {
 
 			.main > .content br {
 				display: none;
@@ -2193,14 +2193,6 @@ input, select, textarea {
 			}
 
 		}
-
-		@media screen and (max-width: 480px) {
-
-			.main > .content {
-				max-width: calc(100% - 1.5em);
-			}
-
-		}	
 
 /* Footer */
 
