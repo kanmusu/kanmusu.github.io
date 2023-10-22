@@ -1,6 +1,6 @@
 ---
 title: Gallery Index
-layout: default
+layout: gallerydefault
 permalink: /lewds
 ---
 

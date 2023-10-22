@@ -82,7 +82,7 @@
 				overlayColor: '#1f2328',
 				overlayOpacity: 0.65,
 				usePopupDefaultStyling: false,
-				usePopupCaption: true,
+				usePopupCaption: false,
 				popupLoaderText: '',
 				windowMargin: 50,
 				usePopupNav: true
@@ -111,9 +111,9 @@
 				// Galleries.
 					$('.gallery')
 						.scrollex({
-							top:		'30vh',
-							bottom:		'30vh',
-							delay:		50,
+							top:		'0vh',
+							bottom:		'0vh',
+							delay:		0,
 							initialize:	function() { $(this).addClass('inactive'); },
 							terminate:	function() { $(this).removeClass('inactive'); },
 							enter:		function() { $(this).removeClass('inactive'); },
@@ -158,7 +158,7 @@
 
 			};
 
-			breakpoints.on('<=small', off);
+			breakpoints.on('<=small', on);
 			breakpoints.on('>small', on);
 
 		}

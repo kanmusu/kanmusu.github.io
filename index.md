@@ -27,27 +27,27 @@ layout: default
         </header>
             <div class="gallery">
                 <article class="from-bottom">
-                    <a href="https://files.catbox.moe/yjcmz2.png" class="image fit"><img src="https://files.catbox.moe/ef07pw.png" title="Chocolate Milkshake" alt="" /></a>
+                    <a href="images/fulls/01.png" class="image fit"><img src="images/thumbs/01.png" title="Chocolate Milkshake" alt="" /></a>
                     <figcaption>Chocolate Milkshake</figcaption>
                 </article>
                 <article class="from-bottom">
-                    <a href="https://files.catbox.moe/5kmsu0.png" class="image fit"><img src="https://files.catbox.moe/dar9hx.png" title="Cookies and Cream" alt="" /></a>
+                    <a href="images/fulls/02.png" class="image fit"><img src="images/thumbs/02.png" title="Cookies and Cream" alt="" /></a>
                     <figcaption>Cookies and Cream</figcaption>
                 </article>
                 <article class="from-bottom">
-                    <a href="https://files.catbox.moe/rl42bv.png" class="image fit"><img src="https://files.catbox.moe/l7ir87.png" title="Purple Punch" alt="" /></a>
+                    <a href="images/fulls/03.png" class="image fit"><img src="images/thumbs/03.png" title="Purple Punch" alt="" /></a>
                     <figcaption>Purple Punch</figcaption>
                 </article>
                 <article class="from-top">
-                    <a href="https://files.catbox.moe/4ynloa.png" class="image fit"><img src="https://files.catbox.moe/szthfc.png" title="Green Apple" alt="" /></a>
+                    <a href="images/fulls/04.png" class="image fit"><img src="images/thumbs/04.png" title="Green Apple" alt="" /></a>
                     <figcaption>Green Apple</figcaption>
                 </article>
                 <article class="from-top">
-                    <a href="https://files.catbox.moe/ksj607.png" class="image fit"><img src="https://files.catbox.moe/si6qyu.png" title="Bursting Bananas" alt="" /></a>
+                    <a href="images/fulls/05.png" class="image fit"><img src="images/thumbs/05.png" title="Bursting Bananas" alt="" /></a>
                     <figcaption>Bursting Bananas</figcaption>
                 </article>
                 <article class="from-top">
-                    <a href="https://files.catbox.moe/256j1a.png" class="image fit"><img src="https://files.catbox.moe/2d9u7b.png" title="Royal Strawberry" alt="" /></a>
+                    <a href="images/fulls/06.png" class="image fit"><img src="images/thumbs/06.png" title="Royal Strawberry" alt="" /></a>
                     <figcaption>Royal Strawberry</figcaption>
                 </article>
             </div>
